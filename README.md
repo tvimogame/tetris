@@ -3,6 +3,8 @@
 Классический Tetris на **React 19 + Vite + Bootstrap 5**. Тёмная неоновая тема,
 анимации, ghost piece, hold, очередь следующих фигур и рекорд в localStorage.
 
+**Играй прямо сейчас:** https://tvimogame.github.io/tetris/
+
 ![gameplay](screenshots/tetris-gameplay.png)
 ![tetris clear](screenshots/tetris-tetris-banner.png)
 
